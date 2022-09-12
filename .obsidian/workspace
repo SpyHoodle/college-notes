@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c0223fe856a33844",
+        "id": "ce8e7ba8ec9824f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maths/Applied/Introduction to Sampling.md",
+            "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -61,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 379.5
   },
   "right": {
     "id": "7c9cc7bbf2abe8ad",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Applied/Introduction to Sampling.md",
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Applied/Introduction to Sampling.md",
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Applied/Introduction to Sampling.md"
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md"
               }
             }
           },
@@ -136,21 +137,34 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "7818ceec47f5d93f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "c0223fe856a33844",
+  "active": "ce8e7ba8ec9824f7",
   "lastOpenFiles": [
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Decomposition.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Notes.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/2.2.2 Computational methods.md",
+    "Computer Science/2.2 Problem solving and programming/2.2 Problem solving and programming.md",
+    "Computer Science/CS - Home.md",
+    "Assets/2022-09-12-decomposition-diagram.png",
     "Maths/Applied/Introduction to Sampling.md",
-    "Maths/Maths.md",
-    "Applied.md",
-    "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
-    "Physics/introduction.md",
-    "2022-09-10.md"
+    "Maths/Maths - Home.md",
+    "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md"
   ]
 }
