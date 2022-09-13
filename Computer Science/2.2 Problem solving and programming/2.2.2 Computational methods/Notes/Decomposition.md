@@ -1,5 +1,5 @@
 # Decomposition
-2022-09-12 Mon
+2022-09-13 Tue | [[2.2.2 Computational methods]]
 
 ## Problem Decomposition
 - **Problem decomposition** -> The process of taking down a large problem and breaking it down into several small problems
@@ -9,7 +9,7 @@
 	- OOP -> methods will be brought back together in classes that will be associated through inheritance, aggregation and composition
 	- Procedural Programming -> subroutines organised into modules and a main routine that controls program flow
 
-![[2022-09-12-decomposition-diagram.png]]
+![[2022-09-12-decomposition-diagram-arcade-shooter.png]]
 
 ## Methods of Decomposition
 ### Top-down design

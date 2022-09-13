@@ -4,23 +4,14 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "a3ce4fa40ea66730",
-=======
-        "id": "c0223fe856a33844",
->>>>>>> 55e23448029e510ad479a9596106b3e6798c0083
+        "id": "382fda28e964eef6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
+            "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md",
             "mode": "source",
             "backlinks": true,
-=======
-            "file": "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
-            "mode": "source",
->>>>>>> 55e23448029e510ad479a9596106b3e6798c0083
             "source": false
           }
         }
@@ -29,65 +20,55 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "147c4d9b0263d646",
-    "type": "mobile-drawer",
+    "id": "f3b7edb35694e8a1",
+    "type": "split",
     "children": [
       {
-        "id": "def5205759837a14",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "7003c23a1735cd33",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d59b6b550d652003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c25e34c46c6757a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5d081ec11907282",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fdb267966fa1e39",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "113efa5492e78d77",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "3d3d160c97887ae1",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-<<<<<<< HEAD
     "direction": "horizontal",
-    "width": 353
-=======
-    "currentTab": 0
->>>>>>> 55e23448029e510ad479a9596106b3e6798c0083
+    "width": 465.5
   },
   "right": {
-    "id": "cdcd0743b61218fb",
-    "type": "mobile-drawer",
+    "id": "7c9cc7bbf2abe8ad",
+    "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "6be452a531620b94",
         "type": "tabs",
         "children": [
@@ -97,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md"
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md"
               }
             }
           },
@@ -164,79 +145,26 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-=======
-        "id": "da1b00a6e221b25d",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
->>>>>>> 55e23448029e510ad479a9596106b3e6798c0083
           }
-        }
-      },
-      {
-        "id": "43347bf55ab62f51",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "2937cda94aa43012",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md"
-          }
-        }
-      },
-      {
-        "id": "7cdd824148e9466d",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "10d56f9716c4cbea",
-        "type": "leaf",
-        "state": {
-          "type": "todo",
-          "state": {}
-        }
+        ],
+        "currentTab": 6
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "a3ce4fa40ea66730",
-=======
-  "active": "c0223fe856a33844",
->>>>>>> 55e23448029e510ad479a9596106b3e6798c0083
+  "active": "382fda28e964eef6",
   "lastOpenFiles": [
-    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md",
-    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Decomposition.md",
     "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
-    "Maths/Applied/Introduction to Sampling.md",
-    "Maths/Maths.md",
-    "Applied.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Decomposition.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md",
+    "Assets/2022-09-13-decomposition-diagram-wormy-game.png",
     "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
-    "Physics/introduction.md",
-    "2022-09-10.md"
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/2.2.2 Computational methods.md",
+    "Computer Science/2.2 Problem solving and programming/2.2 Problem solving and programming.md",
+    "Assets/2022-09-12-decomposition-diagram-arcade-shooter.png",
+    "Maths/Applied/Introduction to Sampling.md",
+    "Maths/Maths.md"
   ]
 }
