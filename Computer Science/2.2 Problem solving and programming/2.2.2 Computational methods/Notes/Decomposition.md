@@ -3,6 +3,7 @@
 
 ## Problem Decomposition
 - **Problem decomposition** -> The process of taking down a large problem and breaking it down into several small problems
+	- Smaller problems roughly have the same complexity
 	- Smaller problems can then often be broken down further (depending on size and complexity of the problem)
 	- Repeat the process until the lowest level ideas represent a singular task, that can then be programmed as a procedure, module, function or method
 	- OOP -> methods will be brought back together in classes that will be associated through inheritance, aggregation and composition
