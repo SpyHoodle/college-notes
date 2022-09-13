@@ -1,5 +1,5 @@
 # Decomposition
-2022-09-12 Mon | [[2.2.2 Computational methods]]
+2022-09-12 Mon
 
 ## Problem Decomposition
 - **Problem decomposition** -> The process of taking down a large problem and breaking it down into several small problems

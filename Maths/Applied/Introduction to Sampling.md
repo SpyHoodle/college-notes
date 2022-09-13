@@ -1,5 +1,5 @@
 # Introduction to Sampling
-2022-09-09 Fri | [[Maths - Home]]
+2022-09-09 Fri
 
 ## Definitions
 - **Population** -> The whole set of items that are of interest

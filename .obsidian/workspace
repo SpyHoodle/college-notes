@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
+            "file": "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
+            "file": "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
+            "file": "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md"
+            "file": "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md"
           }
         }
       },
