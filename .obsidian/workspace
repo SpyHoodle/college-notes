@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce8e7ba8ec9824f7",
+        "id": "a3ce4fa40ea66730",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 353
   },
   "right": {
     "id": "7c9cc7bbf2abe8ad",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md"
+              }
             }
           },
           {
@@ -145,7 +154,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce8e7ba8ec9824f7",
+  "active": "a3ce4fa40ea66730",
   "lastOpenFiles": [
     "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Decomposition.md",
     "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
