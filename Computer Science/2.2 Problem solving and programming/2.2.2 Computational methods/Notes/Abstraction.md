@@ -3,7 +3,8 @@
 
 ### Abstraction
 - **Abstraction** -> Removing unnecessary detail from a problem.
-	- Widely used to simplify things that may be complex
+	- Widely used to simplify things that may be complex in real life
+	- E.g. when driving a car you don't need to know how it works, only how to press pedals and change gear etc.
 	- Must ensure that you include the minimum amount of detail necessary to solve the given problem
 	- Designing computer systems often uses:
 		- Icons
