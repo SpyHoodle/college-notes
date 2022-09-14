@@ -9,7 +9,9 @@
 	- OOP -> methods will be brought back together in classes that will be associated through inheritance, aggregation and composition
 	- Procedural Programming -> subroutines organised into modules and a main routine that controls program flow
 
+### Examples
 ![[2022-09-12-decomposition-diagram-arcade-shooter.png]]
+![[2022-09-14-decomposition-diagram-tea.png]]
 
 ## Methods of Decomposition
 ### Top-down design
