@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c0223fe856a33844",
+        "id": "382fda28e964eef6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -20,57 +20,53 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "147c4d9b0263d646",
-    "type": "mobile-drawer",
+    "id": "f3b7edb35694e8a1",
+    "type": "split",
     "children": [
       {
-        "id": "def5205759837a14",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "7003c23a1735cd33",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d59b6b550d652003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c25e34c46c6757a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5d081ec11907282",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fdb267966fa1e39",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "113efa5492e78d77",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "3d3d160c97887ae1",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 465.5
   },
   "right": {
-    "id": "cdcd0743b61218fb",
-    "type": "mobile-drawer",
+    "id": "7c9cc7bbf2abe8ad",
+    "type": "split",
     "children": [
       {
         "id": "da1b00a6e221b25d",
@@ -126,11 +122,92 @@
           "type": "todo",
           "state": {}
         }
+        "id": "6be452a531620b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b83316e30e37dd64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "668591c15fba115d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37dcff6548658660",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cab9c3cba5ac9ef1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md"
+              }
+            }
+          },
+          {
+            "id": "c90d6b5eb6f6a0e1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b13fbb6388a84141",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "7818ceec47f5d93f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c0223fe856a33844",
+  "active": "382fda28e964eef6",
   "lastOpenFiles": [
     "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Decomposition.md",
     "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
@@ -141,5 +218,15 @@
     "Applied.md",
     "Physics/introduction.md",
     "2022-09-10.md"
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Decomposition.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md",
+    "Assets/2022-09-13-decomposition-diagram-wormy-game.png",
+    "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/2.2.2 Computational methods.md",
+    "Computer Science/2.2 Problem solving and programming/2.2 Problem solving and programming.md",
+    "Assets/2022-09-12-decomposition-diagram-arcade-shooter.png",
+    "Maths/Applied/Introduction to Sampling.md",
+    "Maths/Maths.md"
   ]
 }

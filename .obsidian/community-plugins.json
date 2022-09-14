@@ -6,5 +6,9 @@
   "obsidian-mind-map",
   "obsidian-git",
   "obsidian-outliner",
-  "folder-note-plugin"
+  "file-explorer-note-count",
+  "obsidian-emoji-toolbar",
+  "remember-cursor-position",
+  "sliding-panes-obsidian",
+  "waypoint"
 ]
