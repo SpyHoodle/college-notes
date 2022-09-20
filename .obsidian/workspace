@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e4b7657b1648b7a",
+        "id": "6c1dc7df97351ab1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 448.5
   },
   "right": {
     "id": "7c9cc7bbf2abe8ad",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md"
+              }
             }
           },
           {
@@ -138,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -147,15 +156,15 @@
   },
   "active": "c25e34c46c6757a9",
   "lastOpenFiles": [
-    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Decomposition.md",
-    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Wormy Game.md",
-    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Notes/Abstraction.md",
-    "Assets/2022-09-13-decomposition-diagram-wormy-game.png",
-    "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
-    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/2.2.2 Computational methods.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/2.2.1 Programming techniques.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Abstraction.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Decomposition.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Wormy Game.md",
+    "Maths/Applied/Mechanics/Introduction to Mechanics.md",
+    "Maths/Applied/Statistics/Measures of Average and Spread.md",
+    "Maths/Applied/Statistics/Representation of Data.md",
     "Computer Science/2.2 Problem solving and programming/2.2 Problem solving and programming.md",
-    "Assets/2022-09-12-decomposition-diagram-arcade-shooter.png",
-    "Maths/Applied/Introduction to Sampling.md",
-    "Maths/Maths.md"
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/2.2.2 Computational methods.md"
   ]
 }
