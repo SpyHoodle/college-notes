@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
+            "file": "Maths/Applied/Statistics/Measures of Average and Spread.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
+                "file": "Maths/Applied/Statistics/Measures of Average and Spread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
+                "file": "Maths/Applied/Statistics/Measures of Average and Spread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md"
+                "file": "Maths/Applied/Statistics/Measures of Average and Spread.md"
               }
             }
           },
@@ -147,24 +147,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c25e34c46c6757a9",
+  "active": "6c1dc7df97351ab1",
   "lastOpenFiles": [
-    "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/2.2.1 Programming techniques.md",
-    "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
     "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Abstraction.md",
-    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Decomposition.md",
-    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Wormy Game.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
     "Maths/Applied/Mechanics/Introduction to Mechanics.md",
     "Maths/Applied/Statistics/Measures of Average and Spread.md",
     "Maths/Applied/Statistics/Representation of Data.md",
-    "Computer Science/2.2 Problem solving and programming/2.2 Problem solving and programming.md",
-    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/2.2.2 Computational methods.md"
+    "Maths/Applied/Statistics/Sampling.md",
+    "Physics/4.4 Waves/4.4.1 Wave Motion.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Decomposition.md",
+    "Physics/4.4 Waves/4.4 Waves.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/2.2.1 Programming techniques.md"
   ]
 }
