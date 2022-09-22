@@ -1,5 +1,9 @@
 {
   "theme": "obsidian",
   "cssTheme": "Things",
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "big-math"
+  ],
+  "monospaceFontFamily": "Iosevka"
 }

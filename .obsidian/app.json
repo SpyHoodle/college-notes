@@ -2,5 +2,7 @@
   "spellcheck": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "vimMode": true,
+  "readableLineLength": true
 }
