@@ -1,0 +1,27 @@
+# SUVAT Equations
+2022-09-22 Thu, 2022-09-23 Fri
+
+## The SUVAT Equations
+
+1. $v = u + at$
+	- Gradient of a velocity time graph
+	- $a = \frac{v - u}{t}$
+	- $\therefore at = v - u$
+	- $\therefore v = u + at$
+2. $s = \frac{(u + v)}{2}t$
+	- Area of a velocity time graph = Area of a trapezium
+3. $s = ut + \frac{1}{2}at^2$
+	- Substitute 1 into 2
+4. $v^2 - u^2 = 2as$
+	- $\text{From (2): } 2s = (u + v)t$
+	- $\text{Multiply by a: } 2as = (u + v)at$
+	- $\text{From (1): } at = v - u$
+	- $\text{Sub (1) into (3): }2as = (u + v)(v - u)$
+	- $\therefore 2as = v^2 - u^2$
+
+## Solving a SUVAT question
+- Write down $s$, $u$, $v$, $a$ and $t$ on the left
+- You may have to solve simultaneously
+- For motion under gravity
+	- Let $a = 9.8\ m\ s^{-2}$ 
+	- Draw the positive direction next to $suvat$

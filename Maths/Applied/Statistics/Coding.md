@@ -1,0 +1,16 @@
+# Coding
+2022-09-20 Tue
+
+- **Coding** -> A method of simplifying and compacting data to make it more efficient and easier to do calculations with
+	- When decoding the mean, you completely rearrange the formula
+	- When decoding the standard deviation or other measures of spread, you only undo the multiplicative calculations
+	- This is because spread is only affected by multiplication when coding the values
+		- Moving the values all up by 5 wont affect the spread
+
+$$
+\text{Coding: } y = \frac{x - A}{c}
+$$
+$$
+\text{Then: } \bar{x} = A + c\bar{y}
+\text{ and } \sigma_x = c\sigma_y
+$$
