@@ -1,15 +1,17 @@
 {
   "main": {
-    "id": "109562ba58ca0995",
+    "id": "5d9656911e3a1262",
     "type": "split",
     "children": [
       {
         "id": "da2097db6361af2d",
+        "id": "32b66d2563438c8f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Solving a Problem Example.md",
+            "file": "Physics/4.4 Waves/4.4.1 Wave Motion.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,57 +22,54 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "147c4d9b0263d646",
-    "type": "mobile-drawer",
+    "id": "c5c1d019117cfba1",
+    "type": "split",
     "children": [
       {
-        "id": "def5205759837a14",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "7003c23a1735cd33",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "c34333177608fb3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a48eb4f6ba5384",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76c38433d0b0a79a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22e5d21e56d89330",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "113efa5492e78d77",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "3d3d160c97887ae1",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
     "currentTab": 0
+    "direction": "horizontal",
+    "width": 430.5
   },
   "right": {
-    "id": "cdcd0743b61218fb",
-    "type": "mobile-drawer",
+    "id": "308dea3f50387791",
+    "type": "split",
     "children": [
       {
         "id": "da1b00a6e221b25d",
@@ -142,5 +141,87 @@
     "Assets/2022-09-12-decomposition-diagram-arcade-shooter.png",
     "Maths/Maths.md",
     "Applied.md"
+        "id": "7f0740e566705125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5c76313fe05b2e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab9f6b126662f460",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/4.4 Waves/4.4.1 Wave Motion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee2010d21b47994f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/4.4 Waves/4.4.1 Wave Motion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47896eb4bd4273db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b7f73d6663594c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/4.4 Waves/4.4.1 Wave Motion.md"
+              }
+            }
+          },
+          {
+            "id": "14bc1534fe14a4e1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "32b66d2563438c8f",
+  "lastOpenFiles": [
+    "Maths/Applied/Statistics/Sampling.md",
+    "Maths/Applied/Statistics/Representation of Data.md",
+    "Assets/2022-09-22-electromagnetic-wave-fields.png",
+    "Physics/4.4 Waves/4.4.1 Wave Motion.md"
   ]
 }
