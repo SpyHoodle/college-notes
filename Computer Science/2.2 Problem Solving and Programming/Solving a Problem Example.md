@@ -1,4 +1,5 @@
 # Quadratic Equation Solver
+2022-09-25 | [[Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programming]]
 - Understand the problem
 	$ax^2 + bx + c = 0$
 
@@ -16,10 +17,12 @@
 	$x_2 = \frac{-b-\sqrt{d}}{2a}$
 
 	$d < 0$
-	$\text{No real solutions}$
+	$\therefore \text{No real solutions}$
 - Use test data to check the problem
 - Draw a flowchart for the program
-- Write the pseudocode for the program
+- Write the pseudo-code for the program
+- Write the actual code
+
 ```python
 a = float(input("Enter a: "))
 b = float(input("Enter b: "))
