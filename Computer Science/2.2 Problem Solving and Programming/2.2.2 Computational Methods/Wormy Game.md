@@ -1,5 +1,5 @@
 # Abstraction & Decomposition in Wormy
-2022-09-13 Tue | [[2.2.2 Computational methods]]
+2022-09-13 | [[2.2.2 Computational methods]]
 ## Code
 - Functions are used throughout the code to abstract certain modules after decomposition
 - `import pygame` is game library that is abstracted as we don't need to know how it works and is completely separate from the main code

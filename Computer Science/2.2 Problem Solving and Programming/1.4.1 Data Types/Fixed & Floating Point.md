@@ -1,5 +1,5 @@
 # Fixed & Floating Point
-2022-09-30 Fri | [[1.4.1 Data Types]]
+2022-09-30 | [[1.4.1 Data Types]]
 
 ## Fixed Point
 - Written in Two's Compliment

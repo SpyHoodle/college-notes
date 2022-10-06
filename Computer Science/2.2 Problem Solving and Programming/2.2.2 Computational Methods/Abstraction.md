@@ -1,5 +1,5 @@
 # The Nature of Abstraction
-2022-09-13 Tue | [[2.2.2 Computational methods]]
+2022-09-13 | [[2.2.2 Computational methods]]
 
 ### Abstraction
 - **Abstraction** -> Removing unnecessary detail from a problem.

@@ -1,5 +1,5 @@
 # Introduction to Mechanics
-2022-09-16 Fri
+2022-09-16 | [[7 Kinematics]]
 
 ## Mechanics
 - Concerns motion, forces, and how the two relate to each other

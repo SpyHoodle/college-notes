@@ -1,5 +1,5 @@
 # Signed Numbers
-2022-09-29 Thu | [[1.4.1 Data Types]]
+2022-09-29 | [[1.4.1 Data Types]]
 
 ## Sign and Magnitude
 - **Sign** -> +/-

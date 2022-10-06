@@ -1,5 +1,5 @@
 # Selection
-2022-09-20 Tue | [[2.2.1 Programming Techniques]]
+2022-09-20 | [[2.2.1 Programming Techniques]]
 
 - **Selection** -> A programming construct that allows a program to run sequences of code depending on whether a condition evaluates to `True` or `False`
 	- E.g. an if statement in python, rhombus in a flowchart
