@@ -1,1 +1,2 @@
 # 7 Kinematics
+[[Mechanics]]

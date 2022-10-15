@@ -1,5 +1,5 @@
 # Data Structures
-2022-10-13
+2022-10-13 | [[1.4.2 Data Structures]]
 
 - To make the program easier to write
 - Instead of duplication -> we can use iteration

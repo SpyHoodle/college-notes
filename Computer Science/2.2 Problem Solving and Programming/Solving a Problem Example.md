@@ -1,5 +1,5 @@
 # Quadratic Equation Solver
-2022-09-25 | [[Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programming]]
+2022-09-25 | [[2.2 Problem Solving and Programming]]
 - Understand the problem
 	$ax^2 + bx + c = 0$
 
