@@ -6,7 +6,7 @@
       {
         "id": "61d5788b6e53728c",
         "type": "tabs",
-        "dimension": 43.71415968239965,
+        "dimension": 52.24867724867725,
         "children": [
           {
             "id": "714e100d6571916f",
@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Physics/PAGs/6.3 Experiements with Polarisation.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "f400060c4e073c80",
         "type": "tabs",
-        "dimension": 56.28584031760035,
+        "dimension": 47.75132275132275,
         "children": [
           {
             "id": "d94dd6911cf0418f",
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/11 Waves 1/11.6 Electromagnetic Waves.md",
-                "mode": "source",
+                "file": "Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/PAGs/6.3 Experiements with Polarisation.md",
+                "file": "Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/PAGs/6.3 Experiements with Polarisation.md",
+                "file": "Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/PAGs/6.3 Experiements with Polarisation.md"
+                "file": "Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md"
               }
             }
           },
@@ -186,17 +186,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "714e100d6571916f",
+  "active": "d94dd6911cf0418f",
   "lastOpenFiles": [
+    "Physics/PAGs/6.3 Experiements with Polarisation.md",
     "Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md",
-    "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/Fixed & Floating Point.md",
     "Physics/11 Waves 1/11.6 Electromagnetic Waves.md",
+    "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/Fixed & Floating Point.md",
     "Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programming.md",
     "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/Normalised Floating Point.md",
     "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/Signed Numbers.md",
     "2022-10-15.md",
     "Maths/Applied/Mechanics/7 Kinematics/7.3 Constant acceleration.md",
-    "Physics/11 Waves 1/11.1 & 11.2 Progressive waves & Wave Properties.md",
-    "Physics/2 Foundations of Physics/2.1 & 2.2 Quantities and units & Derived Units.md"
+    "Physics/11 Waves 1/11.1 & 11.2 Progressive waves & Wave Properties.md"
   ]
 }
