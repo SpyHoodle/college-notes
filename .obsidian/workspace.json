@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "09bb48c7cdb21e37",
+    "type": "split",
+    "children": [
+      {
+        "id": "61d5788b6e53728c",
+        "type": "tabs",
+        "dimension": 43.71415968239965,
+        "children": [
+          {
+            "id": "714e100d6571916f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/PAGs/6.3 Experiements with Polarisation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f400060c4e073c80",
+        "type": "tabs",
+        "dimension": 56.28584031760035,
+        "children": [
+          {
+            "id": "d94dd6911cf0418f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/11 Waves 1/11.6 Electromagnetic Waves.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "310b168161d17c83",
+    "type": "split",
+    "children": [
+      {
+        "id": "f102ef5f7455af62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bd037cf9015719d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d0b5d3c89285ecd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1d8c740dd091be0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "right": {
+    "id": "53cf650b49b4b871",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f9663d0e0d2551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acd22a20edfcfe74",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "80f8cdf6a9a1217e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/PAGs/6.3 Experiements with Polarisation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a367953d99098400",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/PAGs/6.3 Experiements with Polarisation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "feacd47004f54ed4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d339240d8d0ce813",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/PAGs/6.3 Experiements with Polarisation.md"
+              }
+            }
+          },
+          {
+            "id": "59086505cf9ec530",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc160bf5ae96a761",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 470.3709411621094,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "714e100d6571916f",
+  "lastOpenFiles": [
+    "Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md",
+    "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/Fixed & Floating Point.md",
+    "Physics/11 Waves 1/11.6 Electromagnetic Waves.md",
+    "Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programming.md",
+    "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/Normalised Floating Point.md",
+    "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/Signed Numbers.md",
+    "2022-10-15.md",
+    "Maths/Applied/Mechanics/7 Kinematics/7.3 Constant acceleration.md",
+    "Physics/11 Waves 1/11.1 & 11.2 Progressive waves & Wave Properties.md",
+    "Physics/2 Foundations of Physics/2.1 & 2.2 Quantities and units & Derived Units.md"
+  ]
+}

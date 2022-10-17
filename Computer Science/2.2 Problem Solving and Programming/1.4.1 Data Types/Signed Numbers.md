@@ -16,3 +16,4 @@
 	- 128 -> -128
 - $\text{2s compliment} = \text{1s compliment} + 1$
 	- Flip all the bits, add one and then you have the negative number
+- To subtract two numbers, take the negative of one then add them together
