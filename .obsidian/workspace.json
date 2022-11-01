@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/12 Waves 2/12.3 Young's Double-Slit Experiment.md",
+                "file": "Physics/11 Waves 1/11.4 Diffraction and Polarisation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/12 Waves 2/12.3 Young's Double-Slit Experiment.md",
+                "file": "Physics/11 Waves 1/11.4 Diffraction and Polarisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/12 Waves 2/12.3 Young's Double-Slit Experiment.md",
+                "file": "Physics/11 Waves 1/11.4 Diffraction and Polarisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/12 Waves 2/12.3 Young's Double-Slit Experiment.md"
+                "file": "Physics/11 Waves 1/11.4 Diffraction and Polarisation.md"
               }
             }
           },
@@ -162,20 +162,17 @@
     "width": 470.3709411621094,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "d94dd6911cf0418f",
   "lastOpenFiles": [
-    "Physics/12 Waves 2/12.2 Interference.md",
-    "Physics/12 Waves 2/12.3 Young's Double-Slit Experiment.md",
-    "Physics/12 Waves 2/12.5 Harmonics.md",
-    "Physics/12 Waves 2/12.4 Stationary Waves.md",
-    "Physics/12 Waves 2/12.6 Stationary Waves in Air Columns.md",
-    "Physics/12 Waves 2/12.1 Superposition of Waves.md",
-    "Physics/11 Waves 1/11.1 & 11.2 Progressive waves & Wave Properties.md",
-    "Physics/11 Waves 1/11.3 Reflection and Refraction.md",
+    "Physics/11 Waves 1/11.5 Intensity.md",
+    "Physics/11 Waves 1/11.8 Refractive Index.md",
+    "Physics/11 Waves 1/11.9 Total Internal Reflection.md",
+    "Physics/11 Waves 1/11.7 Polarisation of Electromagnetic Waves.md",
+    "Physics/11 Waves 1/11.6 Electromagnetic Waves.md",
     "Physics/11 Waves 1/11.4 Diffraction and Polarisation.md",
-    "Physics/11 Waves 1/11.5 Intensity.md"
+    "Physics/11 Waves 1/11.3 Reflection and Refraction.md",
+    "Physics/11 Waves 1/11.1 & 11.2 Progressive waves & Wave Properties.md",
+    "Physics/PAGs/6.3 Experiements with Polarisation.md",
+    "Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md"
   ]
 }
