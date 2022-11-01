@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "109562ba58ca0995",
+    "type": "split",
+    "children": [
+      {
+        "id": "8808bc6cfb79868c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1dc7df97351ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Boolean Algebra.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcf3f75e60b1bd2c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d3a42032bc9183f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2f4e3ae649341901",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "60803d8c0c4aa53d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7d016e19ba2bdaa4",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "769b4f2678cc1f6c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "55a087514686b27e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Computer Science/Boolean Algebra.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9b7c02ea06fe5197",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Computer Science/Boolean Algebra.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b8739a3f564dc817",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Computer Science/Boolean Algebra.md"
+          }
+        }
+      },
+      {
+        "id": "cedba20b9e974438",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "2f59b460f8f1e3fa",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6c1dc7df97351ab1",
+  "lastOpenFiles": [
+    "Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md",
+    "Physics/PAGs/6.3 Experiements with Polarisation.md",
+    "Maths/Applied/Statistics/1 Statistical Sampling/1 Statistical Sampling.md",
+    "Physics/PAGs/PAGs.md",
+    "Physics/PAG.md",
+    "Maths/Applied/Statistics/Sampling.md",
+    "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/Selection.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.1 Programming techniques/2.2.1 Programming techniques.md",
+    "Computer Science/2.2 Problem solving and programming/2.2.2 Computational methods/Abstraction.md"
+  ]
+}
