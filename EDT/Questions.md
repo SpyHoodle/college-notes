@@ -1,0 +1,7 @@
+- How does it get fitted (fixed down?)
+- Is the foot pedal to be left on the ground?
+- How far does it need to reach?
+- How does it need to be controlled?
+- How long is it used for during the day? (durability)
+- How would they like it to be powered, pneumatics, electronics, hydraulics, etc
+- How do they want it to fold / move out the way?

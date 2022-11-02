@@ -1,0 +1,6 @@
+- Use 3 motors at the top of a frame in a triangular shape
+- 3 motors at the top all work together to be able to adjust a point in between
+- Compressed air
+- Tripods
+- Rectangular frame
+- Electric motor
