@@ -4,37 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f400060c4e073c80",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d94dd6911cf0418f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.2 Data Structures/1.4.2 Data Structures.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e36f0844af9fee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Simplifying Boolean Algebra.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+        "id": "714e100d6571916f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "8ecd81ca3d6a9c4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programming.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
     "direction": "vertical"
@@ -52,9 +40,7 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "state": {}
             }
           },
           {
@@ -84,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 331.5
   },
   "right": {
     "id": "53cf650b49b4b871",
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Simplifying Boolean Algebra.md",
+                "file": "Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Simplifying Boolean Algebra.md",
+                "file": "Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Simplifying Boolean Algebra.md"
+                "file": "Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programming.md"
               }
+            }
+          },
+          {
+            "id": "da7f881e393e492f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           },
           {
@@ -159,34 +153,26 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "dc160bf5ae96a761",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 470.3709411621094,
     "collapsed": true
   },
-  "active": "6e36f0844af9fee5",
+  "active": "714e100d6571916f",
   "lastOpenFiles": [
-    "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Boolean Algebra.md",
-    "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Simplifying Boolean Algebra.md",
+    "Physics/11 Waves 1/11.1 & 11.2 Progressive waves & Wave Properties.md",
     "Physics/2 Foundations of Physics/2.1 & 2.2 Quantities and units & Derived Units.md",
-    "Physics/PAG.md",
-    "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/1.4.3 Boolean Algebra.md",
+    "Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programming.md",
     "Computer Science/2.2 Problem Solving and Programming/Solving a Problem Example.md",
-    "Computer Science/1.4 Data types, data structures and algorithms/1.4.2 Data Structures/1.4.2 Data Structures.md",
-    "Computer Science/1.4 Data types, data structures and algorithms/1.4.2 Data Structures/Data Structures.md",
-    "Computer Science/1.4 Data types, data structures and algorithms/1.4.1 Data Types/Signed Numbers.md",
-    "Physics/11 Waves 1/11.4 Diffraction and Polarisation.md"
+    "Computer Science/2.2 Problem Solving and Programming/2.2.1 Programming Techniques/2.2.1 Programming Techniques.md",
+    "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/1.4.1 Data Types.md",
+    "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/1.4.2 Data Structures/1.4.2 Data Structures.md",
+    "Computer Science/2.2 Problem Solving and Programming/2.2.2 Computational Methods/2.2.2 Computational Methods.md",
+    "Computer Science/2.2 Problem Solving and Programming/1.4.1 Data Types/1.4.2 Data Structures/Data Structures.md",
+    "Computer Science/2.2 Problem Solving and Programming/2.2 Problem Solving and Programmingd.md"
   ]
 }

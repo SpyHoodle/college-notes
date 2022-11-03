@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Assets",
   "vimMode": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showInlineTitle": false
 }
