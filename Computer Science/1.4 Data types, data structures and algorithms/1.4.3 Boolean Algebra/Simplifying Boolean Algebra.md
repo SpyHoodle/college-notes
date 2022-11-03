@@ -23,7 +23,7 @@
 
 ## Commutation
 - The order of applications of two separate terms is not important
-- A *OR* B = B *AND* A
+- A *OR* B = B *OR* A
 - A *AND* B = B *AND* A
 
 ## Distribution

@@ -11,26 +11,16 @@
             "id": "6c1dc7df97351ab1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Boolean Algebra.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "74032dd4f8ec0403",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EDT/Ideas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -39,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDT/Questions.md",
+                "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Karnaugh Map.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EDT/Questions.md",
+            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Karnaugh Map.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "EDT/Questions.md",
+            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Karnaugh Map.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "EDT/Questions.md"
+            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Karnaugh Map.md"
           }
         }
       },
@@ -165,17 +155,17 @@
     ],
     "currentTab": 0
   },
-  "active": "ff792de4d6c44478",
+  "active": "7d3a42032bc9183f",
   "lastOpenFiles": [
+    "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Simplifying Boolean Algebra.md",
+    "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Boolean Algebra.md",
+    "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md",
     "EDT/Ideas.md",
     "Computer Science/Simplifying Boolean Algebra.md",
     "Computer Science/Boolean Algebra.md",
     "Physics/PAGs/5.3 Determining frequency and amplitude of a wave using an oscilloscope.md",
     "Physics/PAGs/6.3 Experiements with Polarisation.md",
     "Maths/Applied/Statistics/1 Statistical Sampling/1 Statistical Sampling.md",
-    "Physics/PAGs/PAGs.md",
-    "Physics/PAG.md",
-    "Maths/Applied/Statistics/Sampling.md",
-    "Physics/2.1 Quantities and Units & 2.2 - Derived Units.md"
+    "Physics/PAGs/PAGs.md"
   ]
 }
