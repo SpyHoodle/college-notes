@@ -11,8 +11,13 @@
             "id": "6c1dc7df97351ab1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/11 Waves 1/11.6 Electromagnetic Waves.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -36,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Karnaugh Map.md",
+            "file": "Physics/11 Waves 1/11.6 Electromagnetic Waves.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Karnaugh Map.md",
+            "file": "Physics/11 Waves 1/11.6 Electromagnetic Waves.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Karnaugh Map.md"
+            "file": "Physics/11 Waves 1/11.6 Electromagnetic Waves.md"
           }
         }
       },
@@ -155,7 +159,7 @@
     ],
     "currentTab": 0
   },
-  "active": "7d3a42032bc9183f",
+  "active": "6c1dc7df97351ab1",
   "lastOpenFiles": [
     "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Simplifying Boolean Algebra.md",
     "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Boolean Algebra.md",
