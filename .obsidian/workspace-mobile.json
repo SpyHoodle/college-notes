@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/PAGs/6.1 Determining the Planck Constant.md",
+                "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physics/PAGs/6.1 Determining the Planck Constant.md",
+            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physics/PAGs/6.1 Determining the Planck Constant.md",
+            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physics/PAGs/6.1 Determining the Planck Constant.md"
+            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md"
           }
         }
       },
@@ -196,9 +196,9 @@
   },
   "active": "361a7b8bd61f3bfe",
   "lastOpenFiles": [
+    "Physics/PAGs/6.1 Determining the Planck Constant.md",
     "Physics/13 Quantum Physics/13.2 The Photoelectric Effect.md",
     "Physics/13 Quantum Physics/13.1 The Photon Model.md",
-    "Physics/PAGs/6.1 Determining the Planck Constant.md",
     "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Simplifying Boolean Algebra.md",
     "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Karnaugh Map.md",
     "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Boolean Algebra.md",
