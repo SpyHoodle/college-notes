@@ -3,6 +3,7 @@
 
 ## De Morgan's Law
 - Either logical function *AND* or *OR* may be replaced by the other given certain changes to the expression
+- For engineering, break the line (*NOT*) and then change the sign (*AND* / *OR*)
 - Allows statements to be simplified so that they only use *NAND* or *NOR* gates
 	- Makes it easier to build microprocessors
 	- e.g. Solid-state drives are made up of only *NAND* gates 

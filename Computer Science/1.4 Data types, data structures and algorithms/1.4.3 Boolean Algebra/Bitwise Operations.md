@@ -1,5 +1,6 @@
 # Bitwise Operations
 2022-11-03 | [[1.4.3 Boolean Algebra]]
+> **Note:** everything in brackets is the Python bitwise operator for the logic gate.
 
 - *AND* (&) -> Perform and on each of the digits
 - *OR* (|) -> Perform or on each of the digits
@@ -13,5 +14,7 @@
 		- X = 0011 (3), Y = 1010 (10)
 - *NOT* (~)-> Gets you the 1s compliment
 	- Add 1, you get the 2s compliment
-
-X = (A OR B) OR (A AND B) = A OR B
+- **Right shift** (>>) -> Divides by two for every shift
+	- Shifts all the digits a number of places to the right
+- **Left shift** (<<) -> Multiplies by two for every shift
+	- Shifts all the digits a number of places to the left
