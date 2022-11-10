@@ -56,9 +56,13 @@
 ## Sequential circuits
 - Outputs depend not only on the current inputs but also on the sequence of past events
 - **Flip-flop** -> Allows a previous output value to be stored, and thus acts as a simple memory device
+	- Outputs are always opposite
 	- These memory units are volatile
 	- Can be asynchronous, where the inputs will be processed as they arrive
 	- Can be synchronous, meaning the operations are controlled by a clocks
+
+- **RS flip-flop** -> Stores the value of a single binary digit from two inputs
+	- Can be done with *NAND* or *NOR* gates, but effectively flips around the flip-flop
 - **D-type flip-flop** -> A synchronous sequential circuit that can be used to store the value of a single binary digit
 	- $D$ is the data signal
 	- $Clk$ is the clock signal
