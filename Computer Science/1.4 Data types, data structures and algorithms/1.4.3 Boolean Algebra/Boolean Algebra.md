@@ -6,7 +6,7 @@
 	- **Functions** -> Logic circuits
 
 ### XOR
-- **XOR gate** -> (NOT A AND B) OR (A AND NOT B)<br>
+- **XOR gate** -> (NOT A AND B) OR (A AND NOT B)
 | a   | b   | x   |
 | --- | --- | --- |
 | 0   | 0   | 0   |
