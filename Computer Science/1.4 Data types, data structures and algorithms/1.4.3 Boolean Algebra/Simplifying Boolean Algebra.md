@@ -4,18 +4,10 @@
 ## De Morgan's Law
 - Either logical function *AND* or *OR* may be replaced by the other given certain changes to the expression
 - For engineering, break the line (*NOT*) and then change the sign (*AND* / *OR*)
+- e.g. *NOT* A *AND* *NOT* B is *NOT*(A *OR* B)
 - Allows statements to be simplified so that they only use *NAND* or *NOR* gates
 	- Makes it easier to build microprocessors
 	- e.g. Solid-state drives are made up of only *NAND* gates 
-- e.g. *NOT* A *AND* *NOT* B is *NOT*(A *OR* B)
-- Steps are as follows:
-	- Change *OR* to *AND* (or vice versa)
-	- *NOT* the terms on either side of the operator
-	- *NOT* everything that has changed
-	- Remove double negation (any multiple of two *NOT* gates next to each other)
-
-### Diagram Example
-![[2022-11-03-de-morgans-law-example.png]]
 
 ## Association
 - Allows us to remove brackets from an expression to regroup the variables

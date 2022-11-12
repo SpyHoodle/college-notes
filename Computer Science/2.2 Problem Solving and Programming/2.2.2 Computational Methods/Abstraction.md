@@ -1,7 +1,7 @@
 # The Nature of Abstraction
 2022-09-13 | [[2.2.2 Computational methods]]
 
-### Abstraction
+## Abstraction
 - **Abstraction** -> Removing unnecessary detail from a problem.
 	- Widely used to simplify things that may be complex in real life
 	- E.g. when driving a car you don't need to know how it works, only how to press pedals and change gear etc.
@@ -60,9 +60,3 @@ Consider the following problem:
 > The Alpaca Soap Company is going to launch a new product range: Lemon and Lime. The organic range includes soap and a body cream. The cream needs to be stored carefully so that it does not deteriorate. The company has advance orders for the next year and must produce 300 batches in the next quarter, then 250, 100, and 350 in successive quarters. There are fixed costs of £10,000 per quarter and each batch costs £300 to produce. If needed, the cost of storage is £500 per batch per quarter. The company wants to produce a production plan that allows its advance orders to be satisfied and minimises its total cost.
 
 This problem should be reduced to a shortest path problem, and then applied to a suitable shortest path algorithm e.g. [Dijkstra's shortest path algorithm](https://isaaccomputerscience.org/concepts/dsa_search_dijkstra)
-
-## References
-- [Isaac Computer Science - Abstraction](https://isaaccomputerscience.org/concepts/dsa_ctm_abstraction?examBoard=all&stage=all)
-
-#TODO: Change Dijkstra's shortest path algorithm to my own note
-#TODO: Ask Abid about procedural abstraction
