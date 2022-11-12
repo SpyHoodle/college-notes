@@ -1,5 +1,5 @@
 # Representation of Data
-2022-09-13 Tue
+2022-09-13 
 
 ## Histograms
 - 19-25 -> A boundary of 18.5-25.5
