@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md",
+                "file": "Physics/13 Quantum Physics/13.2 The Photoelectric Effect & 13.3 Einstein's Photoelectric Equation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#COMMONQUESTION",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -130,7 +130,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "769b4f2678cc1f6c",
@@ -142,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md",
+            "file": "Physics/13 Quantum Physics/13.2 The Photoelectric Effect & 13.3 Einstein's Photoelectric Equation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md",
+            "file": "Physics/13 Quantum Physics/13.2 The Photoelectric Effect & 13.3 Einstein's Photoelectric Equation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md"
+            "file": "Physics/13 Quantum Physics/13.2 The Photoelectric Effect & 13.3 Einstein's Photoelectric Equation.md"
           }
         }
       },
@@ -196,13 +196,13 @@
   },
   "active": "361a7b8bd61f3bfe",
   "lastOpenFiles": [
-    "Physics/PAGs/6.1 Determining the Planck Constant.md",
-    "Physics/13 Quantum Physics/13.2 The Photoelectric Effect.md",
     "Physics/13 Quantum Physics/13.1 The Photon Model.md",
+    "Physics/13 Quantum Physics/13.2 The Photoelectric Effect & 13.3 Einstein's Photoelectric Equation.md",
+    "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md",
+    "Physics/PAGs/6.1 Determining the Planck Constant.md",
     "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Simplifying Boolean Algebra.md",
     "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Karnaugh Map.md",
     "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Boolean Algebra.md",
-    "Computer Science/1.4 Data types, data structures and algorithms/1.4.3 Boolean Algebra/Bitwise Operations.md",
     "EDT/Ideas.md",
     "Computer Science/Simplifying Boolean Algebra.md",
     "Computer Science/Boolean Algebra.md"
