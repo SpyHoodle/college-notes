@@ -5,5 +5,12 @@
   "attachmentFolderPath": "Assets",
   "vimMode": true,
   "readableLineLength": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }

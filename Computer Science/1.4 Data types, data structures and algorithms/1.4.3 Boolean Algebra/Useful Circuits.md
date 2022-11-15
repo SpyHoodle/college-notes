@@ -82,7 +82,7 @@
 ### D-type Flip-Flop
 - **D-type flip-flop** -> A synchronous sequential circuit that can be used to store the value of a single binary digit
 	- When the $Clock$ signal is low (0) changes at $D$ make no difference to the outputs
-	- When the $Clock$ signal is high (1) the value of input $D$ will appear at output $Q$. 
+	- When the $Clock$ signal is high (1) the value of input $D$ will appear at output $Q$.
 	- *NOT* $Q$ is always the inverse of $Q$.
 	- If there are changes in the data during the period when the clock signal is high (1), the output at $Q$ will change in line with $D$.
 		- This may not be a desirable feature of the circuit.
